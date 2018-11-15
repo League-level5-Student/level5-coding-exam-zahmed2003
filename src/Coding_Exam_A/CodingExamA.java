@@ -16,7 +16,8 @@ public class CodingExamA {
 		 * 
 		 * Once the information has been collected, the program will then make the requested number of robots
 		 * each draw the requested shape in the requested color. The robots should execute at the same time so 
-		 * Threads will need to be used. For full credit, define the Thread functions with lambdas.
+		 * Threads will need to be used. Arrange the robots so that the shapes do not overlap.
+		 * For full credit, define the Thread functions using lambdas.
 		 * 
 		 * See the Coding_Exam_A_Demo.jar for an example of what the finished product should look like.
 		 */
