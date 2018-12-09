@@ -35,7 +35,7 @@ public class CodingExamB {
 		finalLogString += getLoggingInfo("src/Coding_Exam_B/classes/Vector3.java");
 		
 		/*
-		 * 2. Write the finalLogString to file called TODO_Log.txt. The file should match TODO_Log_example.txt. 
+		 * 2. Write the finalLogString to a file called TODO_Log.txt. The file should match TODO_Log_example.txt. 
 		 */
 
 	}
